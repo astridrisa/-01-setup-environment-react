@@ -2,7 +2,7 @@
 |--------|------------------------------------|
 |Nama    | Astrid Risa Widiana                |
 |NIM     | 2241720250                         |
-|Kelas   | TI-2B                              |
+|Kelas   | TI-3A                              |
 |Absen   | 05                                 |
 
 # **JOBSHEET 1 - PENGANTAR PEMROGRAMAN BERBASIS FRAMEWORK DAN REACTJS**
