@@ -25,15 +25,15 @@
 
     **Git**
 
-    ![alt text](<img/bukti git.png>)
+    ![alt text](<img/Bukti Git.png>)
 
     **VSCode**
 
-    ![alt text](<img/bukti vscode.png>)
+    ![alt text](<img/Bukti VsCode.png>)
 
     **Node.js**
 
-    ![alt text](<img/bukti node.js.png>)
+    ![alt text](<img/Bukti Node.js.png>)
 
 
 ## **Praktikum 2: Membuat Proyek Pertama React Menggunakan Next.js**
